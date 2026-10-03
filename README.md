@@ -22,7 +22,7 @@ In Claude Code and Cowork, Claude sends files from your disk directly to Handwri
 Install it from the Claude plugin directory, or in Claude Code:
 
 ```
-/plugin marketplace add ikmolbo/handwritingocr-claude-plugin
+/plugin marketplace add Handwriting-OCR/handwritingocr-claude-plugin
 /plugin install handwritingocr@handwritingocr
 ```
 

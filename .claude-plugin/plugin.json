@@ -11,6 +11,7 @@
     "homepage": "https://www.handwritingocr.com",
     "license": "MIT",
     "repository": "https://github.com/Handwriting-OCR/handwritingocr-claude-plugin",
+    "privacyPolicyUrl": "https://www.handwritingocr.com/privacy",
     "icon": "./logo.png",
     "keywords": [
         "ocr",

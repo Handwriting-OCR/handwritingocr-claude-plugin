@@ -9,6 +9,7 @@
         "url": "https://www.handwritingocr.com"
     },
     "homepage": "https://www.handwritingocr.com",
+    "license": "MIT",
     "documentationUrl": "https://www.handwritingocr.com/help/basics",
     "supportUrl": "https://www.handwritingocr.com/support",
     "privacyPolicyUrl": "https://www.handwritingocr.com/privacy",

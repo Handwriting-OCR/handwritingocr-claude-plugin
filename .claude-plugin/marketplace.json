@@ -1,0 +1,15 @@
+{
+    "name": "handwritingocr",
+    "description": "The HandwritingOCR plugin for Claude.",
+    "owner": {
+        "name": "HandwritingOCR",
+        "email": "support@handwritingocr.com"
+    },
+    "plugins": [
+        {
+            "name": "handwritingocr",
+            "source": "./",
+            "description": "Turn scans and photos of handwritten or printed documents into text and tables with HandwritingOCR."
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "handwritingocr",
+    "displayName": "HandwritingOCR",
+    "version": "1.0.0",
+    "description": "Turn scans and photos of handwritten or printed documents into text and tables with HandwritingOCR.",
+    "author": {
+        "name": "HandwritingOCR",
+        "email": "support@handwritingocr.com",
+        "url": "https://www.handwritingocr.com"
+    },
+    "homepage": "https://www.handwritingocr.com",
+    "documentationUrl": "https://www.handwritingocr.com/help/basics",
+    "supportUrl": "https://www.handwritingocr.com/support",
+    "privacyPolicyUrl": "https://www.handwritingocr.com/privacy",
+    "icon": "./logo.png",
+    "keywords": [
+        "ocr",
+        "handwriting",
+        "transcription",
+        "pdf",
+        "scans",
+        "tables",
+        "documents"
+    ]
+}

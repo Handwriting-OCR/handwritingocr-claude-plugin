@@ -19,10 +19,10 @@ In Claude Code and Cowork, Claude sends files from your disk directly to Handwri
 
 ## Install
 
-Install it from the Claude plugin directory. To test a local copy in Claude Code:
+Install it from the Claude plugin directory, or in Claude Code:
 
 ```
-/plugin marketplace add ./extensions/claude
+/plugin marketplace add ikmolbo/handwritingocr-claude-plugin
 /plugin install handwritingocr@handwritingocr
 ```
 

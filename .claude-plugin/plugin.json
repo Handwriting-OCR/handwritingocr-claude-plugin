@@ -12,6 +12,7 @@
     "documentationUrl": "https://www.handwritingocr.com/help/basics",
     "supportUrl": "https://www.handwritingocr.com/support",
     "privacyPolicyUrl": "https://www.handwritingocr.com/privacy",
+    "termsOfServiceUrl": "https://www.handwritingocr.com/terms",
     "icon": "./logo.png",
     "keywords": [
         "ocr",

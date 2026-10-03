@@ -31,5 +31,6 @@ You need a HandwritingOCR account. Create one at https://www.handwritingocr.com.
 ## Privacy and support
 
 - Privacy policy: https://www.handwritingocr.com/privacy
+- Terms of service: https://www.handwritingocr.com/terms
 - Help: https://www.handwritingocr.com/help/basics
 - Support: support@handwritingocr.com
